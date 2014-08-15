@@ -137,6 +137,7 @@ libc_common_src_files := \
 	stdio/vsscanf.c \
 	stdio/wbuf.c \
 	stdio/wsetup.c \
+	stdio/__sprintf_chk.c \
 	stdlib/assert.c \
 	stdlib/atexit.c \
 	stdlib/atoi.c \
